@@ -77,7 +77,7 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* navbar */
 .navbar{
     position: fixed;
     width: 100%;
@@ -126,7 +126,7 @@ section .title::after{
     color: #fff;
 }
 
-/* menu btn styling */
+/* menu btn */
 .menu-btn{
     color: #fff;
     font-size: 23px;
@@ -162,7 +162,7 @@ section .title::after{
 }
 
 
-/* home section styling */
+/* home section */
 .home{
     display: flex;
     background: url("images/banner.jpg") no-repeat center;
@@ -205,7 +205,7 @@ section .title::after{
     background: none;
 }
 
-/* about section styling */
+/* about section */
 .about{
     background: #222;
 }
@@ -253,7 +253,7 @@ section .title::after{
     background: none;
 }
 
-/* skills section styling */
+/* skills section */
 .skills .title::after{
     content: "what i know";
 }
@@ -325,9 +325,11 @@ section .title::after{
 }
 
 
-/* contact section styling */
+/* contact section */
 
-/* footer section styling */
+
+
+/* footer section */
 footer{
     background: #111;
     padding: 15px 23px;
@@ -343,7 +345,7 @@ footer span a:hover{
 }
 
 
-/* responsive media query start */
+/* responsive media query */
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
