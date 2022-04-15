@@ -188,22 +188,6 @@ section .title::after{
     font-weight: 600;
     margin-left: -3px;
 }
-.home .home-content a{
-    display: inline-block;
-    background: #888;
-    color: #fff;
-    font-size: 25px;
-    padding: 12px 36px;
-    margin-top: 20px;
-    font-weight: 400;
-    border-radius: 6px;
-    border: 2px solid #888;
-    transition: all 0.3s ease;
-}
-.home .home-content a:hover{
-    color: #888;
-    background: none;
-}
 
 /* about section */
 .about{
