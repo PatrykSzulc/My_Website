@@ -347,7 +347,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #111;
+    color: #b3b3b3;
 }
 .contact .right form .fields{
     display: flex;
